@@ -1,5 +1,3 @@
-# Hydra-Philic
-
 Game for a cause :earth_asia:
 
 # What are we doing?
